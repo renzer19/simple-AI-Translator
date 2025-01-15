@@ -1,13 +1,9 @@
-# AI Translator 🌐
+# AI Translator 🌐🤖
 
-Manajemen tugas yang sederhana dan efektif untuk individu dan tim kecil.
+**AI Translator** is an AI-powered application designed to provide real-time text translations into multiple languages. With advanced AI models, this app ensures accurate and context-aware translations.
 
-## Fitur
-- 🌟 Manajemen tugas
-- 📅 Integrasi kalender
-- 🔔 Notifikasi real-time
-
-## Instalasi
-1. Clone repository:
-   ```bash
-   git clone https://github.com/username/taskmaster.git
+## Features ✨
+- ⚡ Real-time translations with high speed.
+- 🧠 AI-powered contextual language understanding.
+- 📜 Transliteration support for non-Latin scripts.
+- Only support for english japan, spanish, and turky
